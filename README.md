@@ -76,3 +76,6 @@ Tab Snab is a Chrome extension that provides real-time audio transcription for a
 ## Privacy Note
 
 Audio data is processed through Rev.ai's servers. Please review Rev.ai's privacy policy for more information about data handling and storage.
+
+Inspiration for project from Whisper Live Chrome Extension:
+https://github.com/collabora/WhisperLive
