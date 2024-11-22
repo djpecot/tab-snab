@@ -2,6 +2,8 @@
 
 Tab Snab is a Chrome extension that provides real-time audio transcription for any tab using Rev.ai's speech-to-text API. It creates a draggable overlay displaying live transcriptions directly on the webpage you're viewing.
 
+![Alt text](/screenshots/tab-snab.png)
+
 ## Features
 
 - Real-time audio transcription using Rev.ai
