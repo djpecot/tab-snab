@@ -99,7 +99,7 @@ async function startRecord(option) {
     // Modified WebSocket connection for Rev AI
     socket = new WebSocket(
       `wss://api.rev.ai/speechtotext/v1/stream?` +
-      `access_token=${'02YNHWnpptcf8S8gntcfKVdpO9aIMtTm1D2guAlsSzEJRbKZF0CGU7gIJsgHnY6nI4yi230f1wKfPFgaqo6jV4VQLOgC8'}&` +
+      `access_token=${REV_API_KEY}&` +
       `content_type=audio/x-raw;layout=interleaved;rate=16000;format=S16LE;channels=1`
       );
 
